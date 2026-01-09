@@ -107,6 +107,19 @@ TF-IDF, Naive Bayes, OCR (Tesseract), data preprocessing, model evaluation
 
 ---
 
+## Certifications & Professional Training
+
+- **Oracle Cloud Infrastructure (OCI) 2025 Certified Generative AI Professional**
+- **Google Cloud Computing Foundations Certificate**
+- **Introduction to FOCUS – FinOps Foundation**
+- **Introduction to FinOps – FinOps Foundation**
+- **Introduction to Kubernetes (LFS158) – Linux Foundation**
+- **Introduction to Jenkins (LFS167) – Linux Foundation**
+
+These certifications reflect my continued investment in cloud platforms, AI integration, cost-aware engineering (FinOps), containerization, and CI/CD practices, and directly support my work in full-stack development, DevOps pipelines, and scalable system design.
+
+---
+
 ## Let’s Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/robert-esparza-895b30206/ 
