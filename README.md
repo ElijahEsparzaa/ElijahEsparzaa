@@ -19,7 +19,7 @@ I enjoy working at the intersection of software engineering and problem-solving 
 **Repo:** https://github.com/Majekman/491-Project-Fork  
 *(Fork of my original 491 Unity project with full integration changes)*
 
-For my senior capstone project, my team was tasked with integrating our standalone Unity roguelike game with a another groups completely separate finance web application under a strict deadline. The goal was to create a meaningful connection between **real-world budgeting behavior and in-game difficulty.**
+For my senior capstone project, my team was tasked with integrating our standalone Unity roguelike game with= another groups completely separate finance web application under a strict deadline. The goal was to create a meaningful connection between **real-world budgeting behavior and in-game difficulty.**
 
 ### What We Built
 - Embedded our Unity game **directly into the finance web application**
